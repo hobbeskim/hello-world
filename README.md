@@ -1,2 +1,3 @@
 # hello-world
-just test
+
+hello, i'm kim. i am doing github guild line's description!
